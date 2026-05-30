@@ -63,7 +63,7 @@ Có một số hướng để mở rộng dự án này. Đối với dữ liệ
 
 ## Insights (Từ các biểu đồ)
 
-- **Thành phố nóng nhất:** Mumbai có nhiệt độ trung bình cao nhất (~27.2 °C), tiếp theo là San Diego (~19.2 °C) và Auckland (~15.9 °C). Beijing và Chicago có biến động theo mùa lớn hơn, trong khi Mumbai tương đối ổn định quanh năm.
-- **Mối quan hệ nhiệt độ — độ ẩm:** Tương quan tổng thể yếu dương (~0.135). Theo thành phố: Beijing (~0.372) và Mumbai (~0.263) có tương quan dương, Auckland có tương quan âm (~ -0.171), cho thấy mối quan hệ khác nhau theo vùng.
-- **Dị thường nhiệt độ toàn cầu (GISTEMP):** Biểu đồ cho thấy xu hướng ấm dần; các năm nóng nhất (theo trung bình năm trong dữ liệu): 2024 (~+1.283 °C), 2023 (~+1.199 °C), 2025 (~+1.159 °C), 2016 (~+0.997 °C), 2020 (~+0.991 °C).
-- **Minnesota — lượng mưa:** Trung bình lượng mưa theo site: Duluth (~2.28 in), Waseca (~2.21 in), StPaul (~2.01 in). Tháng mưa đỉnh trung bình: tháng 6, tháng 8, tháng 5.
+- **Thành phố nóng nhất:** Mumbai có nhiệt độ trung bình cao nhất (27.2 °C), tiếp theo là San Diego (19.2 °C) và Auckland (15.9 °C). Beijing và Chicago có biến động theo mùa lớn hơn, trong khi Mumbai tương đối ổn định quanh năm.
+- **Mối quan hệ nhiệt độ — độ ẩm:** Tương quan tổng thể yếu dương (0.135). Theo thành phố: Beijing (0.372) và Mumbai (0.263) có tương quan dương, Auckland có tương quan âm (khoảng -0.171), cho thấy mối quan hệ khác nhau theo vùng.
+- **Dị thường nhiệt độ toàn cầu (GISTEMP):** Biểu đồ cho thấy xu hướng ấm dần; các năm nóng nhất (theo trung bình năm trong dữ liệu): 2024 (+1.283 °C), 2023 (+1.199 °C), 2025 (+1.159 °C), 2016 (+0.997 °C), 2020 (+0.991 °C).
+- **Minnesota — lượng mưa:** Trung bình lượng mưa theo site: Duluth (2.28 in), Waseca (2.21 in), StPaul (2.01 in). Tháng mưa đỉnh trung bình: tháng 6, tháng 8, tháng 5.
